@@ -1,0 +1,8 @@
+.cards {
+  justify-content: left;
+
+  flex-wrap: wrap;
+  overflow: hidden;
+  width: 920px;
+  gap: 0 100px;
+}
