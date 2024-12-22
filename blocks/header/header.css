@@ -1,0 +1,8 @@
+.header {
+  position: relative;
+  background-color: var(--background-light-gray);
+  overflow: hidden;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+}

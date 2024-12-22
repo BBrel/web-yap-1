@@ -1,0 +1,25 @@
+:root {
+  --main-blue: #2f80ed;
+  --background-light-gray: #f2f2f2;
+  --background-dark-gray: #1f1f1f;
+  --main-black: #000
+}
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
